@@ -1,4 +1,4 @@
-# kawasaki-quantum-camp
+# Kawasaki Quantum Summer Camp 2022
 
 ## スケジュール
 ### Day 1
