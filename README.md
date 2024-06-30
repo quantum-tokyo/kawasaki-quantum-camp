@@ -7,6 +7,7 @@
     - [基本的なプログラミング（Python入門）](https://sites.google.com/a.ipsj.or.jp/mooc/list/C3-1)
 
 ## スケジュール
+後ほど更新します
 ### Day 1
 
 ### Day 2
@@ -19,7 +20,7 @@
 
 
 ## ハンズオンの準備
-
+後ほど更新します
 
 ### 
 2023年のコンテンツは[こちら](https://github.com/quantum-tokyo/kawasaki-quantum-camp/tree/main/2023)
