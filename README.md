@@ -6,7 +6,7 @@
 - [Qiskit入門演習](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day1/20240730_qiskit.ipynb)
 
 ### Day 2
-- 量子ハードウェア入門(解説・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_hardware.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_hardware_solution.ipynb)）
+- 量子ハードウェア入門([解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_1_Hardware.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_hardware.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_hardware_solution.ipynb)）
 - 量子テレポーテーション（[解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_2_Telepo.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_teleportation.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_teleportation_solution.ipynb)）
 - 量子機械学習 ([解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_3_QML.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/qml/20240731_qml.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/qml/20240731_qml_solution.ipynb))
 
