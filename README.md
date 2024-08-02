@@ -6,17 +6,22 @@
 - プログラミングの準備
     - [基本的なプログラミング（Python入門）](https://sites.google.com/a.ipsj.or.jp/mooc/list/C3-1)
 
-## スケジュール
-後ほど更新します
+## 資料
 ### Day 1
+- [量子コンピューティング入門](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day1/20240730_Intro.pdf)
+- [量子ゲート基礎 IBM Quantum Composer](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day1/20240730_Composer.pdf)
+- [Qiskit入門演習](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day1/20240730_qiskit.ipynb)
 
 ### Day 2
+- 量子ハードウェア入門(解説・[コード]([https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_teleportation.ipynb](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_hardware.ipynb))・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_hardware_solution.ipynb)）
+- 量子テレポーテーション（[解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_2_Telepo.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_teleportation.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_teleportation_solution.ipynb)）
+- 量子機械学習 ([解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_3_QML.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/qml/20240731_qml.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/qml/20240731_qml_solution.ipynb))
 
 ### Day 3
+- 量子化学で薬の開発
+- 量子最適化
 
 ### Day 4
-
-
 
 
 ## ハンズオンの準備
