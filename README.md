@@ -11,8 +11,8 @@
 - 量子機械学習 ([解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_3_QML.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/qml/20240731_qml.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/qml/20240731_qml_solution.ipynb))
 
 ### Day 3
-- 量子化学で薬の開発(解説・コード・解答例)
-- 量子最適化(解説・コード・解答例)
+- 量子化学で薬の開発([解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day3/20240801_Nature.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day3/nature/20240801_nature.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day3/nature/20240801_nature_solution.ipynb))
+- 量子最適化([解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day3/20240801_optimization.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day3/20240801_optimization.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day3/20240801_optimization_solution.ipynb))
 
 ### Day 4
 - 資料なし
@@ -33,7 +33,7 @@ JupyterHub環境が動かなくなりますが、以下のいずれかの方法�
 %pip uninstall --yes simplejson
 ```
 
-わからなくなったら、IBM沼田(kifumi@jp.ibm.com)にご連絡ください。
+わからなくなったら、IBM 沼田 (kifumi@jp.ibm.com) にご連絡ください。
 
 ## 事前学習(補習教材)
 - 数学の準備
