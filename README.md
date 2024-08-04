@@ -19,7 +19,9 @@
 
 ## Camp期間のあとにQiskitコードを動かす場合
 JupyterHub環境が動かなくなりますが、以下のいずれかの方法でコードを実行することができます。
-1. [Google Colabratory](https://colab.research.google.com/)    
+1. [qBraid](https://www.qbraid.com)上で実行する    
+   こちらのブログ[「qBraid LabでQiskitを使う手順」](https://qiita.com/kifumi/items/0bf725b9686c15201f27)を参照ください。
+2. [Google Colabratory](https://colab.research.google.com/) 上で実行する   
    毎回、以下のコマンドをjupyter notebook上で最初に実行する必要があります。([参考ブログ](https://qiita.com/kifumi/private/51a5d2a420e6318f78fb))
 ```
 !pip install qiskit qiskit[visualization] qiskit-ibm-runtime qiskit-aer
@@ -27,11 +29,6 @@ JupyterHub環境が動かなくなりますが、以下のいずれかの方法�
 !pip install --prefer-binary pyscf
 ```
 
-2. [qBraid](https://www.qbraid.com)    
-   実機で実行する場合は、以下のコマンドを実行する必要があります。
-```
-%pip uninstall --yes simplejson
-```
 
 わからなくなったら、IBM 沼田 (kifumi@jp.ibm.com) にご連絡ください。
 
