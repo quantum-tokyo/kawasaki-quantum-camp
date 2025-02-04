@@ -3,15 +3,15 @@
 ### Day 1
 - [量子コンピューティング入門](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day1/20240730_Intro.pdf)
 - [量子ゲート基礎 IBM Quantum Composer](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day1/20240730_Composer.pdf)
-- [Qiskit入門演習](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day1/20240730_qiskit.ipynb)
+- Qiskit入門演習([コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day1/20240730_qiskit.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/solutions/day1/20240730_qiskit_solution.ipynb))
 
 ### Day 2
-- 量子ハードウェア入門([解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_1_Hardware.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_hardware.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_hardware_solution.ipynb)）
-- 量子テレポーテーション（[解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_2_Telepo.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_teleportation.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_teleportation_solution.ipynb)）
-- 量子機械学習 ([解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_3_QML.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/qml/20240731_qml.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/qml/20240731_qml_solution.ipynb))
+- 量子ハードウェア入門([解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_1_Hardware.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_hardware.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/solutions/day2/20240731_hardware_solution.ipynb)）
+- 量子テレポーテーション（[解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_2_Telepo.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_teleportation.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/solutions/day2/20240731_teleportation_solution.ipynb)）
+- 量子機械学習 ([解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_3_QML.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/qml/20240731_qml.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/solutions/day2/20240731_qml_solution.ipynb))
 
 ### Day 3
-- 量子化学で薬の開発([解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day3/20240801_Nature.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day3/nature/20240801_nature.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day3/nature/20240801_nature_solution.ipynb))
+- 量子化学で薬の開発([解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day3/20240801_Nature.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day3/nature/20240801_nature.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/solutions/day3/20240801_nature_solution.ipynb))
 - 量子最適化([解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day3/20240801_optimization.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day3/20240801_optimization.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day3/20240801_optimization_solution.ipynb))
 
 ### Day 4
@@ -20,9 +20,9 @@
 ## Camp期間のあとにQiskitコードを動かす場合
 JupyterHub環境が動かなくなりますが、以下のいずれかの方法でコードを実行することができます。
 1. [qBraid](https://www.qbraid.com)上で実行する    
-   こちらのブログ[「qBraid LabでQiskitを使う手順」](https://qiita.com/kifumi/items/0bf725b9686c15201f27)を参照ください。
+   [「qBraid LabでQiskitを使う手順」](https://quantum-tokyo.github.io/introduction/get_started/qbraid.html)を参照ください。
 2. [Google Colabratory](https://colab.research.google.com/) 上で実行する   
-   毎回、以下のコマンドをjupyter notebook上で最初に実行する必要があります。([参考ブログ](https://qiita.com/kifumi/private/51a5d2a420e6318f78fb))
+   毎回、以下のコマンドをjupyter notebook上で最初に実行する必要があります。([「Google コラボ を使う手順」](https://quantum-tokyo.github.io/introduction/get_started/colab.html)を参照ください。)
 ```
 !pip install qiskit qiskit[visualization] qiskit-ibm-runtime qiskit-aer
 !pip install qiskit-algorithms qiskit-nature scikit-learn 
