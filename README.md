@@ -9,7 +9,7 @@
 
 ### Day 2
 - 量子ハードウェア入門 ([解説](./day2/20250730_Hardware.pdf))
-- 量子ゲート基礎 IBM Quantum Composer ([解説](./day2/20250730_Composer.pdf))
+- 量子ゲート基礎 IBM Quantum Composer ([解説](./day2/20250730_Composer.pdf)・[アカウント設定](./day2/20250730_account.pdf))
 - Qiskit入門演習([コード](./day2/20250730_qiskit.ipynb))
 - 量子テレポーテーション([解説](./day2/20250730_Telepo.pdf)・[コード](./day2/20250730_teleportation.ipynb))
 - キャリアトーク
