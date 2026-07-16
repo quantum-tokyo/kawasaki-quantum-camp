@@ -6,7 +6,7 @@
 
 ### Day 2
 - 量子ハードウェア入門 ([解説]())
-- Qiskit入門演習([コード](./day2/20260802_qiskit_intro.ipynb))
+- Qiskit入門([手順](./day2/20260802_qiskit_intro.pdf)[コード](./day2/20260802_qiskit_intro.ipynb))
 - 量子機械学習 ([解説](./day2/20260802_QML.pdf)・[コード](./day2/20260802_qml.ipynb))
 
 ### Day 3
