@@ -6,8 +6,8 @@
 
 ### Day 2
 - 量子ハードウェア入門 ([解説]())
-- Qiskit入門([手順](./day2/20260802_qiskit_intro.pdf)・[コード](./day2/20260802_qiskit_intro.ipynb))
-- 量子機械学習 ([解説](./day2/20260802_QML.pdf)・[コード](./day2/20260802_qml.ipynb))
+- Qiskit入門([手順](./day2/20260802_qiskit_intro.pdf)・[コードのコラボリンク](https://colab.research.google.com/drive/1F_haTENrgBzjfkgCXJH9prevGNNiI8YQ)・[コード](./day2/20260802_qiskit_intro.ipynb))
+- 量子機械学習 ([解説](./day2/20260802_QML.pdf)・[コードのコラボリンク](https://colab.research.google.com/drive/1U4pkKiCEROIRPmH9EdOR_Ol7l08stBKI)・[コード](./day2/20260802_qml.ipynb))
 
 ### Day 3
 - 藤堂先生の特別講義
