@@ -11,8 +11,8 @@
 
 ### Day 3
 - 藤堂先生の特別講義
-- 量子最適化 ([解説](./day3/20260803_Optimization.pdf)・[コード](./day3/20260803_optimization.ipynb))
-- 量子化学 ([解説](./day3/20260803_chemistry.pdf)・[コード](./day3/20260803_chemistry.ipynb))
+- 量子最適化 ([解説](./day3/20260803_Optimization.pdf)・[コードのコラボリンク](https://colab.research.google.com/drive/1LCCKokZCfRqzbYuy6d6djeOpxAVIGoJr#scrollTo=NLdW8PXy8mbV)・[コード](./day3/20260803_optimization.ipynb))
+- 量子化学 ([解説](./day3/20260803_chemistry.pdf)・[コードのコラボリンク](https://colab.research.google.com/drive/1qE7nKXC39-FCQSoEe8d5FcKIQy0xt_cn)・[コード](./day3/20260803_chemistry.ipynb))
 
 ### Day 4
 - グループワーク
